@@ -6,7 +6,7 @@ repository:
   description: MyExtensionPack is my collection of favorite extensions for VSCode.
 
   # A URL with more information about the repository
-  homepage: https://dennykorsukewitz.github.io/VSCode-MyExtensionPack/
+  homepage: https://github.com/dennykorsukewitz/VSCode-MyExtensionPack
 
   # A comma-separated list of topics to set on the repository
   topics: extension, VisualStudioCode, VSC, helper, extensionpack
