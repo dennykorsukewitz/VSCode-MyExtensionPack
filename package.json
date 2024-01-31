@@ -1,6 +1,6 @@
 {
   "name": "MyExtensionPack",
-  "displayName": "My Extension Pack",
+  "displayName": "My VSCode Extension Pack",
   "description": "**MyExtensionPack** is my collection of favorite extensions for VSCode.",
   "version": "1.0.0",
   "publisher": "dennykorsukewitz",
