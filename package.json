@@ -29,12 +29,6 @@
     "Extension Packs"
   ],
   "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "engines": {
     "vscode": "^1.26.0"
   },
   "extensionPack": [
