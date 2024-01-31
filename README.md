@@ -13,7 +13,7 @@
 
 | Status |
  | ------ |
-| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.0/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.0...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) ![GitHub Workflow Pages](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/pages.yml/badge.svg?branch=dev&style=flat&label=GitHub%20Pages) |
+| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.0/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.0...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) |
 
 ## Extensions
 
@@ -32,7 +32,7 @@
 - [x] britesnow.vscode-toggle-quotes
 - [x] esbenp.prettier-vscode
 
-## Optional
+## Optional (Testing)
 
 - [ ] KevinGhadyani.vscode-colormate
 - [ ] naumovs.color-highlight
