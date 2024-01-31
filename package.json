@@ -1,0 +1,56 @@
+{
+  "name": "MyExtensionPack",
+  "displayName": "My Extension Pack",
+  "description": "**MyExtensionPack** is my collection of favorite extensions for VSCode.",
+  "version": "1.0.0",
+  "publisher": "dennykorsukewitz",
+  "icon": "doc/images/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/blob/dev/README.md",
+  "pricing": "Free",
+  "bugs": {
+    "url": "https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/issues",
+    "email": "dennykorsukewitz@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennykorsukewitz/VSCode-MyExtensionPack"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/dennykorsukewitz"
+  },
+  "keywords": [
+    "extension",
+    "pack",
+    "extensionpack",
+    "helper"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "extensionPack": [
+    "ms-vscode.sublime-keybindings",
+    "thertzlor.semantic-rainbow",
+    "koalamer.workspace-in-status-bar",
+    "github.copilot",
+    "github.copilot-chat",
+    "dennykorsukewitz.addfoldertoworkspace",
+    "dennykorsukewitz.githubfilefetche",
+    "dennykorsukewitz.quotewithmarker",
+    "dennykorsukewitz.znuny",
+    "sleistner.vscode-fileutils",
+    "shardulm94.trailing-spaces",
+    "britesnow.vscode-toggle-quotes",
+    "esbenp.prettier-vscode",
+    "wakatime.vscode-wakatime",
+  ]
+}
