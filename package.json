@@ -45,6 +45,13 @@
     "shardulm94.trailing-spaces",
     "britesnow.vscode-toggle-quotes",
     "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "PKief.material-icon-theme",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "yzhang.markdown-all-in-one",
+    "eamodio.gitlens",
     "wakatime.vscode-wakatime"
   ]
 }
