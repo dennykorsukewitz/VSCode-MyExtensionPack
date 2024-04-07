@@ -38,6 +38,7 @@
 - [x] yzhang.markdown-all-in-one
 - [x] formulahendry.code-runner
 - [x] eamodio.gitlens
+- [x] Gruntfuggly.todo-tree
 
 ## Optional (Testing)
 
@@ -45,7 +46,6 @@
 - [ ] naumovs.color-highlight
 - [ ] dbaeumer.vscode-eslint
 - [ ] durzn.brackethighlighter
-- [ ] eamodio.gitlens
 - [ ] fabiospampinato.vscode-highlight
 - [ ] keesschollaart.vscode-home-assistant
 - [ ] ms-azuretools.vscode-docker
