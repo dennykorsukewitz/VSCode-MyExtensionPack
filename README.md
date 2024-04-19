@@ -17,6 +17,8 @@
 
 ## Extensions
 
+### Default
+
 - [x] ms-vscode.sublime-keybindings
 - [x] thertzlor.semantic-rainbow
 - [x] koalamer.workspace-in-status-bar
@@ -40,17 +42,20 @@
 - [x] eamodio.gitlens
 - [x] Gruntfuggly.todo-tree
 
-## Optional (Testing)
+### Optional (Testing)
 
-- [ ] KevinGhadyani.vscode-colormate
-- [ ] naumovs.color-highlight
 - [ ] dbaeumer.vscode-eslint
 - [ ] durzn.brackethighlighter
 - [ ] fabiospampinato.vscode-highlight
+- [ ] KevinGhadyani.vscode-colormate
+- [ ] naumovs.color-highlight
+
+### Specific
+
+- [ ] glenn2223.live-sass
 - [ ] keesschollaart.vscode-home-assistant
 - [ ] ms-azuretools.vscode-docker
 - [ ] ritwickdey.liveserver
-- [ ] glenn2223.live-sass
 - [ ] SanderPilon.blockalign
 - [ ] the96.vscode-perl
 
