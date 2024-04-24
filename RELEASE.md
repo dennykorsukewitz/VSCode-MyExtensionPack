@@ -2,6 +2,7 @@
 
 ## Added
 
+- Updated icon.
 - Added packages.
     - streetsidesoftware.code-spell-checker
     - usernamehw.errorlens
