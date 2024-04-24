@@ -13,34 +13,34 @@
 
 | Status                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.0/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.0...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) |
+| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.1/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.1...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) |
 
 ## Extensions
 
 ### Default
 
-- [x] ms-vscode.sublime-keybindings
-- [x] thertzlor.semantic-rainbow
-- [x] koalamer.workspace-in-status-bar
-- [x] github.copilot
-- [x] github.copilot-chat
-- [x] wakatime.vscode-wakatime
+- [x] britesnow.vscode-toggle-quotes
 - [x] dennykorsukewitz.addfoldertoworkspace
 - [x] dennykorsukewitz.githubfilefetche
 - [x] dennykorsukewitz.quotewithmarker
 - [x] dennykorsukewitz.znuny
-- [x] sleistner.vscode-fileutils
-- [x] shardulm94.trailing-spaces
-- [x] britesnow.vscode-toggle-quotes
-- [x] esbenp.prettier-vscode
-- [x] streetsidesoftware.code-spell-checker
-- [x] usernamehw.errorlens
-- [x] PKief.material-icon-theme
-- [x] formulahendry.auto-rename-tag
-- [x] yzhang.markdown-all-in-one
-- [x] formulahendry.code-runner
 - [x] eamodio.gitlens
+- [x] esbenp.prettier-vscode
+- [x] formulahendry.auto-rename-tag
+- [x] formulahendry.code-runner
+- [x] github.copilot-chat
+- [x] github.copilot
 - [x] Gruntfuggly.todo-tree
+- [x] koalamer.workspace-in-status-bar
+- [x] ms-vscode.sublime-keybindings
+- [x] PKief.material-icon-theme
+- [x] shardulm94.trailing-spaces
+- [x] sleistner.vscode-fileutils
+- [x] streetsidesoftware.code-spell-checker
+- [x] thertzlor.semantic-rainbow
+- [x] usernamehw.errorlens
+- [x] wakatime.vscode-wakatime
+- [x] yzhang.markdown-all-in-one
 
 ### Optional (Testing)
 
