@@ -4,6 +4,7 @@
 
 - Added packages.
     - github.vscode-github-actions
+    - KevinGhadyani.vscode-colormate
     - oderwat.indent-rainbow
     - pnp.polacode
     - ms-vscode.extension-test-runner

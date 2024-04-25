@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added packages.
     - github.vscode-github-actions
+    - KevinGhadyani.vscode-colormate
     - oderwat.indent-rainbow
     - pnp.polacode
     - ms-vscode.extension-test-runner
