@@ -1,14 +1,9 @@
-# [1.0.1] - 2024-04-24
+# [1.0.2] - 2024-04-25
 
 ## Added
 
-- Updated icon.
 - Added packages.
-    - streetsidesoftware.code-spell-checker
-    - usernamehw.errorlens
-    - PKief.material-icon-theme
-    - formulahendry.auto-rename-tag
-    - formulahendry.code-runner
-    - yzhang.markdown-all-in-one
-    - eamodio.gitlens
-    - Gruntfuggly.todo-tree
+    - github.vscode-github-actions
+    - oderwat.indent-rainbow
+    - pnp.polacode
+    - ms-vscode.extension-test-runner

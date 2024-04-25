@@ -13,7 +13,7 @@
 
 | Status                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.1/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.1...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) |
+| [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/dennykorsukewitz/VSCode-MyExtensionPack/1.0.2/dev)](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/compare/1.0.2...dev) ![GitHub Workflow Lint](https://github.com/dennykorsukewitz/VSCode-MyExtensionPack/actions/workflows/lint.yml/badge.svg?branch=dev&style=flat&label=Lint) |
 
 ## Extensions
 
@@ -30,31 +30,41 @@
 - [x] formulahendry.code-runner
 - [x] github.copilot-chat
 - [x] github.copilot
+- [x] github.vscode-github-actions
 - [x] Gruntfuggly.todo-tree
+- [x] KevinGhadyani.vscode-colormate
 - [x] koalamer.workspace-in-status-bar
 - [x] ms-vscode.sublime-keybindings
+- [x] oderwat.indent-rainbow
 - [x] PKief.material-icon-theme
+- [x] pnp.polacode
 - [x] shardulm94.trailing-spaces
 - [x] sleistner.vscode-fileutils
 - [x] streetsidesoftware.code-spell-checker
 - [x] thertzlor.semantic-rainbow
 - [x] usernamehw.errorlens
+- [x] ms-vscode.extension-test-runner
 - [x] wakatime.vscode-wakatime
 - [x] yzhang.markdown-all-in-one
 
 ### Optional (Testing)
 
-- [ ] dbaeumer.vscode-eslint
 - [ ] durzn.brackethighlighter
 - [ ] fabiospampinato.vscode-highlight
-- [ ] KevinGhadyani.vscode-colormate
 - [ ] naumovs.color-highlight
 
 ### Specific
 
+- [ ] bscan.perlnavigator
+- [ ] dbaeumer.vscode-eslint
 - [ ] glenn2223.live-sass
 - [ ] keesschollaart.vscode-home-assistant
 - [ ] ms-azuretools.vscode-docker
+- [ ] ms-python.black-formatter
+- [ ] ms-python.debugpy
+- [ ] ms-python.flake8
+- [ ] ms-python.python
+- [ ] ms-python.vscode-pylance
 - [ ] ritwickdey.liveserver
 - [ ] SanderPilon.blockalign
 - [ ] the96.vscode-perl
