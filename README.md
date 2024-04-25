@@ -47,11 +47,10 @@
 - [x] wakatime.vscode-wakatime
 - [x] yzhang.markdown-all-in-one
 
-### Optional (Testing)
+### Testing
 
+- [ ] Cardinal90.multi-cursor-case-preserve
 - [ ] durzn.brackethighlighter
-- [ ] fabiospampinato.vscode-highlight
-- [ ] naumovs.color-highlight
 
 ### Specific
 
