@@ -29,7 +29,7 @@
     "Extension Packs"
   ],
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.85.0"
   },
   "extensionPack": [
     "britesnow.vscode-toggle-quotes",
